@@ -1,2 +1,4 @@
-# gramps_turkish_translation
-Gramps project Turkish translation part
+# Gramps Turkish Translation
+This repo contains Turkish translation part of Gramps project
+
+Original project URL: 
